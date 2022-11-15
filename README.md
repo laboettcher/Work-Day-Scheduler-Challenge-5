@@ -28,8 +28,8 @@ THEN the saved events persist
 
 ## Mock-Up
 
-<!-- @TODO: create ticket to review/update image) -->
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+<img width="1135" alt="Screen Shot 2022-11-14 at 9 50 13 PM" src="https://user-images.githubusercontent.com/114205917/201836817-d7eb044b-8353-445c-b125-13307f1b337b.png">
+
 
 ## Links
 
