@@ -33,7 +33,7 @@ THEN the saved events persist
 
 ## Links
 
-Github repo:
+Github repo: https://github.com/laboettcher/Work-Day-Scheduler-Challenge-5
 
 Deployed application: https://laboettcher.github.io/Work-Day-Scheduler-Challenge-5/
 
