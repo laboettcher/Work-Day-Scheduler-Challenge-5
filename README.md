@@ -1,11 +1,5 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
-## Your Task
-
-Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-
-You'll need to use the [Day.js](https://day.js.org/en/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
-
 ## User Story
 
 ```md
@@ -32,68 +26,44 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:
+## Mock-Up
 
 <!-- @TODO: create ticket to review/update image) -->
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
 
-## Grading Requirements
+## Links
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
 
-This Challenge is graded based on the following criteria:
+## References
 
-### Technical Acceptance Criteria: 40%
+https://day.js.org/
 
-* Satisfies all of the above acceptance criteria plus the following:
+https://learn.jquery.com/using-jquery-core/document-ready/
 
-  * Uses a date utility library to work with date and time
+https://momentjs.com/docs/
 
-### Deployment: 32%
+https://cdnjs.com/libraries/moment.js
 
-* Application deployed at live URL
+https://javascript.info/styles-and-classes
 
-* Application loads with no errors
+https://www.geeksforgeeks.org/difference-between-this-and-this-in-jquery/
 
-* Application GitHub URL submitted
+https://api.jquery.com/addclass/
 
-* GitHub repo contains application code
+https://www.geeksforgeeks.org/how-to-dynamically-create-and-apply-css-class-in-javascript/
 
-### Application Quality: 15%
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
 
-* Application user experience is intuitive and easy to navigate
+https://api.jquery.com/attr/#attr1
 
-* Application user interface style is clean and polished
+https://www.w3schools.com/jsref/jsref_split.asp
 
-* Application resembles the mock-up functionality provided in the Challenge instructions
+https://stackoverflow.com/questions/45801058/dynamically-recalculating-total-working-hours-of-a-generated-html-jquery-table
 
-### Repository Quality: 13%
+https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 
-* Repository has a unique name
+https://www.w3schools.com/jsref/met_storage_getitem.asp
 
-* Repository follows best practices for file structure and naming conventions
+https://api.jquery.com/val/
 
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages
-
-* Repository contains quality README file with description, screenshot, and link to deployed application
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
-
-- - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+https://www.geeksforgeeks.org/how-to-dynamically-create-and-apply-css-class-in-javascript/
